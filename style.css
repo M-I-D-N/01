@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(to right, rgb(4, 68, 68), rgb(4, 32, 32));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: whitesmoke;  
+    font-family: monospace;
+}
+
+#logo{
+    width: 250px;
+}
+
+ul{
+    background: black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
